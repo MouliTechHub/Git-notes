@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 
 My second git commitsssssss thought local cli.
 My second git commitsssssss thought console.
 adding new content to existing file.
 
 Adding new content through test-branch
+=======
+My second git commitsssssss thought local cli.
+>>>>>>> afba301 (thtough cli)
 
